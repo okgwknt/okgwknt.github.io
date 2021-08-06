@@ -6,7 +6,6 @@ import { Header } from "../components/Header";
 const IndexPage: NextPage = () => (
   <div className="font-body">
     <div className="h-screen">
-      {/* <Menu></Menu> */}
       <Header></Header>
 
       <div className="fixed bottom-1">
