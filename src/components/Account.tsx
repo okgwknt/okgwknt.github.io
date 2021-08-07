@@ -1,9 +1,7 @@
 import Image from "next/image";
 import { Icon } from "./Icon";
 
-// fontowesome 導入
-
-export const Account = ({}) => (
+export const Account = () => (
   <>
     <div className="">
       <Icon

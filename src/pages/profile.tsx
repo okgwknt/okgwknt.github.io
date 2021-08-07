@@ -10,14 +10,14 @@ import { PageTitle } from "../components/PageTitle";
 
 const IndexPage: NextPage = () => (
   <div className="font-body">
-    <Header></Header>
+    <Header />
 
     <div className="fixed bottom-1">
-      <Account></Account>
+      <Account />
     </div>
 
     <main className="pt-20 w-4/5 mx-auto">
-      <PageTitle title="Profile"></PageTitle>
+      <PageTitle title="Profile" />
 
       <Section title="Kanta Okugawa">
         <Paragraph>

@@ -6,10 +6,10 @@ import { Header } from "../components/Header";
 const IndexPage: NextPage = () => (
   <div className="font-body">
     <div className="h-screen">
-      <Header></Header>
+      <Header />
 
       <div className="fixed bottom-1">
-        <Account></Account>
+        <Account />
       </div>
 
       <div className="h-full w-4/5 mx-auto text-center table">

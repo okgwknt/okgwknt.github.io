@@ -1,7 +1,5 @@
 import Image from "next/image";
 
-// fontowesome 導入
-
 function navOpen() {
   let height = document.getElementById("nav_height");
   // height.style.height = "100%";
@@ -27,7 +25,7 @@ function navClose() {
   console.log("11");
 }
 
-export const Menu = ({}) => (
+export const Menu = () => (
   <>
     <div className="">
       <div className="fixed right-10 top-10 ">
