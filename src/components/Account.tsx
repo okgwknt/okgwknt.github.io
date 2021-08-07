@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Icon } from "./Icon";
 
 export const Account = () => (
