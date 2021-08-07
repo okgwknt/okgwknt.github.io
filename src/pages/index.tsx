@@ -14,7 +14,8 @@ const IndexPage: NextPage = () => (
 
       <div className="h-full w-4/5 mx-auto text-center table">
         <h1 className=" table-cell align-middle">
-          HOW TO GET THINGS DONE WHEN YOU DON’T WANT TO DO ANYTHING
+          {/* HOW TO GET THINGS DONE WHEN YOU DON’T WANT TO DO ANYTHING */}
+          OKUGAWA KANTA POTFORLIO SITE
         </h1>
       </div>
     </div>
