@@ -27,13 +27,13 @@ const IndexPage: NextPage = () => (
           Security and Networks Cource
           <br />A junior(Third year)
           <br />
-          Birthday: 2000/12/26, Birthplace: Japan, Height: 173cm, Weight: 60kg,
+          Birthday: 2000/12/26, Hometown: Japan, Height: 173cm, Weight: 60kg,
           Body Temperature: 309.45K
         </Paragraph>
       </Section>
 
       <Section title="History">
-        <Paragraph>大阪生まれだよ</Paragraph>
+        <Paragraph>I was born in Osaka in 2000. </Paragraph>
       </Section>
 
       <Section title="Skill">
@@ -47,15 +47,16 @@ const IndexPage: NextPage = () => (
         <Paragraph>
           普通自動車免許
           <br />
-          基本情報技術者(Fundamental Information Technology Engineer)
+          Fundamental Information Technology Engineer(基本情報技術者)
           <br />
-          応用情報技術者(Applied Information Technology Engineer)
+          Applied Information Technology Engineer(応用情報技術者)
         </Paragraph>
       </Section>
 
       <Section title="Favorite">
         <Paragraph>
-          THE BLUE HEARTS / IU / Dramas / Anime / TV show / Music
+          THE BLUE HEARTS / IU / Dramas / Anime / TV show / Movie / Music etc.
+          more
         </Paragraph>
       </Section>
     </main>
