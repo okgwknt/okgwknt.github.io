@@ -17,7 +17,9 @@ const IndexPage: NextPage = () => (
     </div>
 
     <main className="pt-20 w-4/5 mx-auto">
-      <PageTitle title="Product"></PageTitle>
+      <div className="pl-5">
+        <PageTitle title="Product"></PageTitle>
+      </div>
     </main>
   </div>
 );
