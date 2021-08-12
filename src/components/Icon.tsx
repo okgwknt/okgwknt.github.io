@@ -11,7 +11,7 @@ export const Icon: VFC<Props> = ({ link, name, imageName }) => (
     <img
       src={imageName}
       alt={name}
-      className="max-h-5 max-w-5 m-8 transition duration-300 ease-out transform hover:translate-x-2 "
+      className="max-h-7 max-w-7 my-10 mx-7 transition duration-300 ease-out transform hover:translate-x-4 "
     />
   </a>
 );

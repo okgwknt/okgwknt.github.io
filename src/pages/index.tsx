@@ -4,7 +4,7 @@ import { Menu } from "../components/Menu";
 import { Header } from "../components/Header";
 
 const IndexPage: NextPage = () => (
-  <div className="font-body">
+  <div>
     <div className="h-screen">
       <Header />
 
@@ -13,8 +13,7 @@ const IndexPage: NextPage = () => (
       </div>
 
       <div className="h-full w-4/5 mx-auto text-center table">
-        <h1 className=" table-cell align-middle">
-          {/* HOW TO GET THINGS DONE WHEN YOU DON’T WANT TO DO ANYTHING */}
+        <h1 className=" table-cell align-middle text-2xl">
           OKUGAWA KANTA PORTFOLIO SITE
         </h1>
       </div>

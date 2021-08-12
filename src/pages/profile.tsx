@@ -5,8 +5,8 @@ import { Paragraph } from "../components/Paragraph";
 import { Header } from "../components/Header";
 import { PageTitle } from "../components/PageTitle";
 
-const IndexPage: NextPage = () => (
-  <div className="font-body">
+const ProofilePage: NextPage = () => (
+  <div>
     <Header />
 
     <div className="fixed bottom-1">
@@ -65,4 +65,4 @@ const IndexPage: NextPage = () => (
   </div>
 );
 
-export default IndexPage;
+export default ProofilePage;

@@ -5,5 +5,5 @@ type Props = {
 };
 
 export const PageTitle: VFC<Props> = ({ title }) => (
-  <h1 className="mb-4 text-4xl text-gray-600">{title}</h1>
+  <h1 className="mb-8 text-5xl text-gray-600">{title}</h1>
 );
