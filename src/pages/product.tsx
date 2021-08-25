@@ -25,3 +25,4 @@ const ProductPage: NextPage = () => (
 );
 
 export default ProductPage;
+         
