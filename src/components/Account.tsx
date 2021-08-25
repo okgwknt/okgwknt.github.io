@@ -23,11 +23,11 @@ export const Account = () => (
         link="https://www.facebook.com/profile.php?id=100054552007076"
         name="Facebook"
       />
-      <Icon
+      {/* <Icon
         imageName="./images/LinkedIn.png"
         link="https://www.linkedin.com/in/okgwknt"
         name="LinkedIn"
-      />
+      /> */}
     </div>
   </>
 );
