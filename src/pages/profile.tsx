@@ -28,8 +28,8 @@ const ProofilePage: NextPage = () => (
             Security and Networks Cource
             <br />A junior(Third year)
             <br />
-            Birthday: 2000/12/26, Hometown: Japan, Height: 173cm, Weight: 60kg,
-            Body Temperature: 309.45K
+            Birth: 2000/12, Hometown: Japan, Height: 173cm, Weight: 60kg, Body
+            Temperature: 309.45K
           </Paragraph>
         </Section>
 
